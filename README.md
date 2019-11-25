@@ -1,5 +1,5 @@
 # Online_Shop_Backend
-Online shop back end demo application, based on Spring framework, Hibernate ORM and REST API. 
+Online shop back end demo application, based on Spring framework, Hibernate ORM, JPA and REST API. 
 This is my personal java beck end practice project, that simulates online shop backend. It contains the basic functionality,
 that almost every online shop has.
 
